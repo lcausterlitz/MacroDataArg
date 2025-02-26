@@ -1,1 +1,1 @@
-asdsa
+This directory collects economic and financial data from various web sources using web scraping techniques in Python with Selenium. The goal is to build historical time series and update high-frequency variables, such as asset prices and other macroeconomic indicators, in an automated manner.
